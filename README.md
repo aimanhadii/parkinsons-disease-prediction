@@ -93,13 +93,14 @@ Run all cells. The full run takes about 6 minutes on an 8-core laptop, most of i
     └── Comparative_Analysis_of_ML_Algorithms_to_Predict_Parkinson_s_Disease.ipynb
 ```
 
-## Author
+## Authors
 
-**Sheikh Aiman Hadi bin Shekh Faisal**
-Coursework project at the International Islamic University Malaysia (IIUM), Mar 2024 – Jun 2024.
+Group coursework project at the International Islamic University Malaysia (IIUM), Mar 2024 – Jun 2024.
 
-- LinkedIn: `<your-linkedin-url>`
-- Email: `<your-email>`
+- **Sheikh Aiman Hadi bin Shekh Faisal** · [LinkedIn](https://www.linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1) · [aimanhadi100@gmail.com](mailto:aimanhadi100@gmail.com)
+- Muhammad Luqman Bisthamy bin Sham Zulaney
+- Wan Ahmad Hafizuddin bin Wan Hussin
+- Muhammad Nazrin bin Jamil
 
 ## Acknowledgements
 
